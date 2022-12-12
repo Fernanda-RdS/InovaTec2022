@@ -27,9 +27,7 @@ https://docs.google.com/document/d/1PHduanGY9BVDvpv40lpkc_ZF6e_L2I83FnWCIZLONlQ/
 Slide  
 https://drive.google.com/file/d/1mUoDS-bm3lOpI_8CF8XIHgTLf0LP8pQR/view?usp=share_link  
 
-
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/desenvolvedorajanielejustino/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/fernanda-silva-0341b4158/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-silva-0341b4158/" height= "25xp" /></a>
 </p>
